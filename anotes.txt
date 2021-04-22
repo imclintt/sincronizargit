@@ -1,3 +1,7 @@
 estoy queriendo fusionar las ramas
+<<<<<<< HEAD
 
 esto no puede estar pasando
+=======
+aeaaaaaaaaaaaaaa
+>>>>>>> actualizando
